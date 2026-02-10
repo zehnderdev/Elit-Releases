@@ -5,7 +5,8 @@
 
 ELIT is a chaotic AI-powered party game where your words literally shape the world
 
-![Static Badge](https://img.shields.io/badge/Made_with-Unity-blue?logo=unity)
+[![Static Badge](https://img.shields.io/badge/Made_with-Unity-blue?logo=unity)](https://unity.com)
+
 
 </div>
 
@@ -46,6 +47,7 @@ The <b>core gameloop</b> resolves around:
 ---
 
 ## Controls
+These are the Controls for our game. In the future those will be customizable for each user to set their preffered bindings.
 ### Movement & Camera
 - WASD - Move
 - Space - Jump
@@ -94,7 +96,7 @@ Also consider that this game is still in development and this is only meant to b
 
 If you find any bugs you are welcome to submit an issue describing what errors you encounter and which platform your on, ideally also add a screenshot for clarity. Thanks!
 ## Contribution
-This game is still in development and also still only made by our [team](#about-the-team) in the frame of a university course.
+This game is still in development and also still only made by our [team](#about-the-team) in the frame of a university course, at the university of tuebingen.
 ## About the Team
 #### Team Leader: [Joshua Zehnder](https://github.com/zehnderdev)
 [Bekir Makal](https://github.com/bekir624)
