@@ -25,11 +25,7 @@ ELIT is a chaotic AI-powered party game where your words literally shape the wor
 
 ## Trailer
 
-<video width="800" controls>
-  <source src="assets/Elit_Demo_Trailer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+[![Elit Trailer](https://img.youtube.com/vi/z2iFMu6l5Fk/maxresdefault.jpg)]((https://youtu.be/z2iFMu6l5Fk)
 ---
 
 ## About The Game
@@ -50,6 +46,7 @@ The <b>core gameloop</b> resolves around:
 5. Guesser and prompter recieve points based on several factors
   
 ---
+
 ## Controls
 ### Movement & Camera
 - WASD – Move
@@ -60,6 +57,7 @@ The <b>core gameloop</b> resolves around:
 - Left Click (LMB) – Select UI (in lobby / game panel)  or Paint (Prompter)
 - E – Interact / Pickup
 - F (mashing) - Escape hold
+- 
 
 ### Prompt & Guessing 
 - Q - Focus prompt / guess input 
@@ -74,7 +72,7 @@ The <b>core gameloop</b> resolves around:
   * Processor: Quad Core Intel or Amd CPU
   * Graphics : 2GB VRAM
   * Ram : 8GB RAM
-  * Storage: 4GB free disk space
+  * Storage: 2GB free disk space
 * ### Installation
   * First make sure you have [<b>steam](https://store.steampowered.com) running</b> and are <b>logged into your account</b>.
   * Then find our most recent release [here](https://github.com/zehnderdev/Elit-Releases/releases)
