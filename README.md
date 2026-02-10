@@ -53,10 +53,16 @@ The <b>core gameloop</b> resolves around:
 - Mouse – Look / Aim
   
 ### Actions 
-- Left Click (LMB) – Select UI (in lobby / game panel)  or Paint (Prompter)
-- E – Interact / Pickup
-- F (mashing) - Escape hold
-- 
+- E – Pick up / Drop
+- F – Button mash to escape
+- Left Click (LMB) – 
+    - Select UI (lobby / game panel)  
+    - Charge Throw / Throw on release (while holding an object or another player)
+
+### Painting as Prompter
+- G - Select Painted object / Paint NonPainted Object
+- G + O - Color bucket
+- scroll wheel - change color
 
 ### Prompt & Guessing 
 - Q - Focus prompt / guess input 
