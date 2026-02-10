@@ -10,46 +10,84 @@ A wild round-based party game where your prompts shape the battlefield.
 
 </div>
 
+--- 
+
 ## Table of Contents
-1. [About the game](#the-game)
-2. [Story](#story)
-3. [Gameplay](#gameplay)
-4. [Installation and Requirements](#installation-&-requirements)
-5. [Found a bug/Need Help?](#reporting-a-problem-or-bug)
-6. [Contributors](#contributers)
-7. [About the Team](#about-the-team)
-8. [Licensing](#licensing)
+1. [About the game](#about-the-game)
+2. [Gameplay](#gameplay)
+3. [Installation and Requirements](#installation--requirements)
+4. [Found a bug/Need Help?](#reporting-a-problem-or-bug)
+5. [Contribution](#contribution)
+6. [About the Team](#about-the-team)
+7. [Licensing](#licensing)
+
+---
 
 ## Trailer
 
 ### include trailer here 
 
-## Overview 
+---
+
+## About The Game
 ELIT is a chaotic AI-powered party game where your words literally shape the world. As the prompter, you describe an object, an AI forges it into a 3D sculpture which you can paint. As a guesser, you fight, and outsmart others to uncover the hidden word. Across fast-paced rounds with power‑ups, combat, and a huge map, your creativity doesn’t just score points – it builds the entire playground you’re competing in.
 
-## The Game
-
-
-## Story
+---
 
 ## Gameplay
-d
+
+### Gamedesign
+The game is built in [unity](https://unity.com), as a 3D round-based multiplayer concept.
+
+The <b>core gameloop</b> resolves around:
+1. Prompter-generated prompts around a given concept
+2. AI-generated 3D objects
+3. Deployment of 3D object inside package
+4. Guesser guessing concept
+5. Guesser and prompter recieve points based on several factors
+  
+---
+
 ## Installation & Requirements
 * ### Minimal system requirements
   * OS: Windows 10/11, macOS, Linux
-  * Processor: Quad Core Intel or Amd Cpu
+  * Processor: Quad Core Intel or Amd CPU
   * Graphics : 2GB VRAM
   * Ram : 8GB RAM
   * Storage: 4GB free disk space
 * ### Installation
-  * First make sure you have [steam](https://store.steampowered.com) running and are logged into your account.
-  * Then find our most recent release [here](https://github.com/zehnderdev/Elit-Releases/releases) - its a zip folder containing an .exe file which you can extract and executing the .exe file.
+  * First make sure you have [<b>steam](https://store.steampowered.com) running</b> and are <b>logged into your account</b>.
+  * Then find our most recent release [here](https://github.com/zehnderdev/Elit-Releases/releases)
+  * Choose your operating system and download the zip folder containing our game and extract it.
+    * For Windows: just run the .exe file
+    * For Linux : First switch into the extracted folder `cd path/to/Elit`,then make the gamefile executable with `chmod +x Elit.x86_64`. Lastly execute the file with `./Elit.x86_64`.
+    * For Mac: macOS is not supported yet, due to compatility issues. 
 
 If you run into any problems when opening or playing the game, see [here](#reporting-a-problem-or-bug)
 ## Reporting a problem or bug
+Please make sure you have steam running, and arent playing a steam game while trying to launch Elit.
 
-## Contributers
+Also concider that this game is still in development and this is only ment to be a Demo.
 
+If you find any bugs you are welcome to submit an issue describing what errors you encounter and which platform your on, ideally also add a screenshot for clarity. Thanks!
+## Contribution
+This game is still in development and also still only made by our [team](#about-the-team) in the frame of a university course.
+Keep
 ## About the Team
+#### Team Lead: Joshua Zehnder
+Bekir Kamal 
 
-## Licensing 
+Joseph Kubasch
+
+Dimitrios Fanariotis 
+
+Chrisitan Ottenhaus
+
+Thomas Wagner
+
+# Licensing
+Copyright © 2026 Chatter Studios.<br>
+All rights reserved.
+
+No permission is granted to use, copy, modify, or distribute <br>
+this software or its source code without explicit written permission.
