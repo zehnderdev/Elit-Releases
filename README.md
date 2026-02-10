@@ -51,6 +51,7 @@ The <b>core gameloop</b> resolves around:
 - WASD - Move
 - Space - Jump
 - Mouse - Look / Aim
+- Shift - Sprint
   
 ### Actions 
 - E - Pick up / Drop
