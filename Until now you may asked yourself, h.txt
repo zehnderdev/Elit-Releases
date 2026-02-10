@@ -1,0 +1,11 @@
+Until now you may asked yourself, how do we get These 3D object and how does our this Technologie( 3D object Generation) even work
+Let me qucikly explain:
+We have a uni Server running in the Background Holding a powerfull 3D object Generation model. We can then prompt to do this Server and get our desired objects back.
+This is not only used in our objects inside the box, but also used for our Character creation, were you can create every Character you ever wanted to be and have no Limits.
+Thats why we Chose this Technology, because this is creating even more funny Moments with your friend through multiplayer.
+
+Speaking of multiplayer, we integrated multiplayer through steam, so playing together is as easy as joinging your Friends directly through your steam friend list.
+Also a Thing to Mention is that we added promixity Chat so you and your Friends can talk ingame.
+This leads to our tamed growth and on to thomas.
+
+Of Course working and communicating in a Group with 6 People is never easy. but we managed do so by working after the scrum principal with Sprints and met each week to talk About the Progress and our next steps. We also communicated or decided on our next Meetings through discord and WhatsApp. We of Course used Git/GitHub for Version Control and our scrum board. And lastly on Notion we kept Meeting notes.
