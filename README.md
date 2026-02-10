@@ -60,9 +60,9 @@ The <b>core gameloop</b> resolves around:
     - Charge Throw / Throw on release (while holding an object or another player)
 
 ### Painting as Prompter
-- G - Select Painted object / Paint NonPainted Object
+- G – Select painted object / Paint non-painted object
 - G + O - Color bucket
-- scroll wheel - change color
+- Scroll Wheel – Change color
 
 ### Prompt & Guessing 
 - Q - Focus prompt / guess input 
