@@ -42,27 +42,27 @@ The <b>core gameloop</b> resolves around:
 2. AI-generated 3D objects
 3. Deployment of 3D object inside package
 4. Guesser guessing concept
-5. Guesser and prompter recieve points based on several factors
+5. Guesser and prompter receive points based on several factors
   
 ---
 
 ## Controls
 ### Movement & Camera
-- WASD – Move
+- WASD - Move
 - Space - Jump
-- Mouse – Look / Aim
+- Mouse - Look / Aim
   
 ### Actions 
-- E – Pick up / Drop
-- F – Button mash to escape
-- Left Click (LMB) – 
+- E - Pick up / Drop
+- F - Button mash to escape
+- Left Click (LMB) -
     - Select UI (lobby / game panel)  
     - Charge Throw / Throw on release (while holding an object or another player)
 
 ### Painting as Prompter
-- G – Select painted object / Paint non-painted object
+- G - Select painted object / Paint non-painted object
 - G + O - Color bucket
-- Scroll Wheel – Change color
+- Scroll Wheel - Change color
 
 ### Prompt & Guessing 
 - Q - Focus prompt / guess input 
@@ -74,9 +74,9 @@ The <b>core gameloop</b> resolves around:
 ## Installation & Requirements
 * ### Minimal system requirements
   * OS: Windows 10/11, macOS, Linux
-  * Processor: Quad Core Intel or Amd CPU
+  * Processor: Quad Core Intel or AMD CPU
   * Graphics : 2GB VRAM
-  * Ram : 8GB RAM
+  * RAM : 8GB RAM
   * Storage: 2GB free disk space
 * ### Installation
   * First make sure you have [<b>steam](https://store.steampowered.com) running</b> and are <b>logged into your account</b>.
@@ -84,13 +84,13 @@ The <b>core gameloop</b> resolves around:
   * Choose your operating system and download the zip folder containing our game and extract it.
     * For Windows: just run the .exe file
     * For Linux : First switch into the extracted folder `cd path/to/Elit`,then make the gamefile executable with `chmod +x Elit.x86_64`. Lastly execute the file with `./Elit.x86_64`.
-    * For Mac: macOS is not supported yet, due to compatility issues. 
+    * For Mac: just run the .app file
 
 If you run into any problems when opening or playing the game, see [here](#reporting-a-problem-or-bug)
 ## Reporting a problem or bug
 Please make sure you have steam running, and arent playing a steam game while trying to launch Elit.
 
-Also concider that this game is still in development and this is only ment to be a Demo.
+Also consider that this game is still in development and this is only meant to be a Demo.
 
 If you find any bugs you are welcome to submit an issue describing what errors you encounter and which platform your on, ideally also add a screenshot for clarity. Thanks!
 ## Contribution
@@ -103,7 +103,7 @@ Joseph Kubasch
 
 Dimitrios Fanariotis 
 
-Chrisitan Ottenhaus
+Christian Ottenhaus
 
 Thomas Wagner
 
