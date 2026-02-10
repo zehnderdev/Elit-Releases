@@ -1,8 +1,7 @@
 # Elit | by Chatter Studios
 <div align="center">
 
-### Better picture !!!!!!
-<img width="3840" height="2160" alt="Image Sequence_015_0010" src="https://github.com/user-attachments/assets/725e46ae-5175-4830-8419-38e9fbcbc464" />
+<img width="1512" height="885" alt="Elit Header" src="https://github.com/user-attachments/assets/fc991d9c-a52b-450d-a929-38f7d2e2d914" />
 
 ELIT is a chaotic AI-powered party game where your words literally shape the world
 
