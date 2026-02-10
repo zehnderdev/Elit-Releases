@@ -24,7 +24,7 @@ ELIT is a chaotic AI-powered party game where your words literally shape the wor
 ---
 
 ## Trailer
-[![Elit Trailer](https://img.youtube.com/vi/z2iFMu6l5Fk/maxresdefault.jpg)]((https://youtu.be/z2iFMu6l5Fk)
+[![Elit Trailer](https://img.youtube.com/vi/z2iFMu6l5Fk/maxresdefault.jpg)](https://youtu.be/z2iFMu6l5Fk)
 ---
 
 ## About The Game
