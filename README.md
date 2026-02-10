@@ -96,16 +96,16 @@ If you find any bugs you are welcome to submit an issue describing what errors y
 ## Contribution
 This game is still in development and also still only made by our [team](#about-the-team) in the frame of a university course.
 ## About the Team
-#### Team Leader: Joshua Zehnder
-Bekir Makal
+#### Team Leader: [Joshua Zehnder](https://github.com/zehnderdev)
+[Bekir Makal](https://github.com/bekir624)
 
-Joseph Kubasch
+[Joseph Kubasch](https://github.com/Josephkub)
 
-Dimitrios Fanariotis 
+[Dimitrios Fanariotis](https://github.com/DimiFan)
 
-Christian Ottenhaus
+[Christian Ottenhaus](https://github.com/ottenchris)
 
-Thomas Wagner
+[Thomas Wagner](https://github.com/163tho)
 
 # Licensing
 Copyright © 2026 Chatter Studios.<br>
