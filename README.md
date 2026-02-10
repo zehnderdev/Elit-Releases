@@ -4,7 +4,7 @@
 ### Better picture !!!!!!
 <img width="3840" height="2160" alt="Image Sequence_015_0010" src="https://github.com/user-attachments/assets/725e46ae-5175-4830-8419-38e9fbcbc464" />
 
-A wild round-based party game where your prompts shape the battlefield.
+ELIT is a chaotic AI-powered party game where your words literally shape the world
 
 ![Static Badge](https://img.shields.io/badge/Made_with-Unity-blue?logo=unity)
 
@@ -47,7 +47,24 @@ The <b>core gameloop</b> resolves around:
 5. Guesser and prompter recieve points based on several factors
   
 ---
+## Controls
+### Movement & Camera
+- WASD – Move
+- Space - Jump
+- Mouse – Look / Aim
+  
+### Actions 
+- Left Click (LMB) – Select UI (in lobby / game panel)  or Paint (Prompter)
+- E – Interact / Pickup
+- F (mashing) - Escape hold
 
+### Prompt & Guessing 
+- Q - Focus prompt / guess input 
+- Enter - Submit prompt / guess
+
+### Menu
+- Esc - Open game panel
+---
 ## Installation & Requirements
 * ### Minimal system requirements
   * OS: Windows 10/11, macOS, Linux
@@ -72,10 +89,9 @@ Also concider that this game is still in development and this is only ment to be
 If you find any bugs you are welcome to submit an issue describing what errors you encounter and which platform your on, ideally also add a screenshot for clarity. Thanks!
 ## Contribution
 This game is still in development and also still only made by our [team](#about-the-team) in the frame of a university course.
-Keep
 ## About the Team
-#### Team Lead: Joshua Zehnder
-Bekir Kamal 
+#### Team Leader: Joshua Zehnder
+Bekir Makal
 
 Joseph Kubasch
 
